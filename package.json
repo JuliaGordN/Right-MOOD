@@ -1,0 +1,11 @@
+{
+  "name": "dz1",
+  "version": "1.0.1-alpha",
+  "description": "",
+  "main": "dz1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Julia_GordN",
+  "license": "ISC"
+}
